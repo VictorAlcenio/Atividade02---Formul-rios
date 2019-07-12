@@ -8,7 +8,7 @@
     <title>Atividade prática 5 - Funções para strings</title>
 </head>
 <body>
-    <form action="5strings.php" method="post">
+    <form action="strings.php" method="post">
         <label for="idtexto">Digite algum texto aqui:</label> <br>
         <textarea name="texto" id="idtexto" cols="30" rows="10"></textarea> <br>
         <input type="radio" name="funcString" id="idfuncString" value="strlen"><label for="funcString">Encontrar o tamanho do texto</label> <br>
